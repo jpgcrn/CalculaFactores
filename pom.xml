@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.crngetafe.utils</groupId>
-    <artifactId>CalculaFactores</artifactId>
+    <artifactId>calculafactores</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -18,7 +18,7 @@
         <repository>
             <id>github</id>
             <name>jpgcrn</name>
-            <url>https://maven.pkg.github.com/jpgcrn/demo-githubpackages</url>
+            <url>https://maven.pkg.github.com/jpgcrn/calculafactores</url>
         </repository>
     </distributionManagement>
 
